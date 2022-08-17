@@ -4,7 +4,7 @@ Dado un grafo y un vértice desde el cual comenzar, el algoritmo da
 como resultado el costo del camino más corto entre ese nodo y todos los demás,
 siempre que exista un camino. 
 
-Se utilizó una implementación estática para implementar un TDA grafo y se desarrollo el Algortmo de Dijkstra siguiendo la misma estrategia.
+Se utilizó una implementación estática para implementar un TDA grafo y se desarrolló el Algortmo de Dijkstra siguiendo la misma estrategia.
 
 Al comenzar, el algoritmo solo cuenta con la información del vértice inicial y lasdistancias hacia sus vértices adyacentes y en cada 
 iteración determinará cual es el mejor candidato, es decir, el que posee la menor distancia hacia el nodo inicial, paramarcarlo como 
